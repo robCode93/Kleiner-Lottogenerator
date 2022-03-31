@@ -1,0 +1,15 @@
+C:\Users\rober\Documents\Visual Studio 2022\Projects\Zahlen Raten\bin\Debug\net6.0\Zahlen Raten.exe
+C:\Users\rober\Documents\Visual Studio 2022\Projects\Zahlen Raten\bin\Debug\net6.0\Zahlen Raten.deps.json
+C:\Users\rober\Documents\Visual Studio 2022\Projects\Zahlen Raten\bin\Debug\net6.0\Zahlen Raten.runtimeconfig.json
+C:\Users\rober\Documents\Visual Studio 2022\Projects\Zahlen Raten\bin\Debug\net6.0\Zahlen Raten.dll
+C:\Users\rober\Documents\Visual Studio 2022\Projects\Zahlen Raten\bin\Debug\net6.0\Zahlen Raten.pdb
+C:\Users\rober\Documents\Visual Studio 2022\Projects\Zahlen Raten\obj\Debug\net6.0\Zahlen Raten.csproj.AssemblyReference.cache
+C:\Users\rober\Documents\Visual Studio 2022\Projects\Zahlen Raten\obj\Debug\net6.0\Zahlen Raten.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rober\Documents\Visual Studio 2022\Projects\Zahlen Raten\obj\Debug\net6.0\Zahlen Raten.AssemblyInfoInputs.cache
+C:\Users\rober\Documents\Visual Studio 2022\Projects\Zahlen Raten\obj\Debug\net6.0\Zahlen Raten.AssemblyInfo.cs
+C:\Users\rober\Documents\Visual Studio 2022\Projects\Zahlen Raten\obj\Debug\net6.0\Zahlen Raten.csproj.CoreCompileInputs.cache
+C:\Users\rober\Documents\Visual Studio 2022\Projects\Zahlen Raten\obj\Debug\net6.0\Zahlen Raten.dll
+C:\Users\rober\Documents\Visual Studio 2022\Projects\Zahlen Raten\obj\Debug\net6.0\refint\Zahlen Raten.dll
+C:\Users\rober\Documents\Visual Studio 2022\Projects\Zahlen Raten\obj\Debug\net6.0\Zahlen Raten.pdb
+C:\Users\rober\Documents\Visual Studio 2022\Projects\Zahlen Raten\obj\Debug\net6.0\Zahlen Raten.genruntimeconfig.cache
+C:\Users\rober\Documents\Visual Studio 2022\Projects\Zahlen Raten\obj\Debug\net6.0\ref\Zahlen Raten.dll
